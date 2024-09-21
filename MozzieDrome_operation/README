@@ -1,0 +1,1 @@
+The MozzieDrome assay builds on top of the Rampino system and therefore the folders are named as such for ease of operation. Briefly, the Matlab codes in the “Rampino folder establishes serial communication with an Arduino board equipped with coded in the “RampinoSVR” folder. Parameters can be found directly in the Matlab codes. 
